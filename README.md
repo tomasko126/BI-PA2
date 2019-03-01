@@ -8,3 +8,6 @@ Students know the instruments of object-oriented programming and are able to use
 7 homeworks, which are tested against the ProgTest web system against demo examples, randomly generated data and wrong user inputs. The ProgTest web app also tests speed of algorithms and performs memory management checks. No data of these performed tests are being disclosed to students.
 
 1 semestral work, which is being submitted to the ProgTest web system, but is evaluated by tutor.
+
+## Disclaimer
+I should be 🔥 in hell for mixing up non-english and english names of variables and methods, please, don't do the same mistake 🤦🏻‍♂️
